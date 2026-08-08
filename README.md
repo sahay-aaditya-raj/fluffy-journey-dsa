@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -169,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
