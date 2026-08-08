@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
