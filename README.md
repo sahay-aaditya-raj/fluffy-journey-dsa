@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sliding Window
@@ -217,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
