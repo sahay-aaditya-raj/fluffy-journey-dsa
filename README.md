@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -242,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
