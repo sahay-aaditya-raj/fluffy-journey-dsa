@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0198-house-robber) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0647-palindromic-substrings) |
 ## Sorting
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0213-house-robber-ii) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0139-word-break) |
 ## Manacher
 |  |
 | ------- |
@@ -258,4 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
