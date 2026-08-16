@@ -32,11 +32,7 @@ public:
         ListNode* temp = cur->next;
         cur->next = nullptr;
         ListNode* mynode = reverseLL(head);
-        cur = mynode;
-        while(cur->next){
-            cur = cur->next;
-        }
-        cur->next = reverseKGroup(temp, k);
+        head->next = reverseKGroup(temp, k);
         return mynode;
 
     }
