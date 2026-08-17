@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
