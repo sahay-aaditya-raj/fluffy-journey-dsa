@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0704-binary-search) |
 ## Tree
 |  |
 | ------- |
