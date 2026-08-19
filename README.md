@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0189-rotate-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0189-rotate-array) |
 ## Memoization
 |  |
