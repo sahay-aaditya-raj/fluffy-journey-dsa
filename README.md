@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0739-daily-temperatures) |
@@ -309,5 +311,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0739-daily-temperatures) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
