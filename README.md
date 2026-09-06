@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0055-jump-game) |
 ## Linked List
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0118-pascals-triangle) |
