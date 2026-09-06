@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahay-aaditya-raj/fluffy-journey-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
